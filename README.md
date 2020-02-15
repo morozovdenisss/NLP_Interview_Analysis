@@ -8,11 +8,11 @@ Many startup founders from my network received a questionnaire consisting of 10 
 
 The answers for each question were clustered, Word Embedding was applied to express words as vectors and the Latent Dirichlet allocation algorithm connected the vectors in a 'topic model' equation, in the form presented above.
 
-![Types of Graphs](reports/Word&Vectors&and&Topic&Model&Equations.png)
+![Types of Graphs](reports/Word%20Vectors%20and%20Topic%20Model%20Equations.png)
 
 Later, the GENSIM visualization library was used to visualize the responses.
 
-![Types of Graphs](reports/LDA&Visualization&-&Question&1.png)
+![Types of Graphs](reports/LDA%20Visualization%20-%20Question%201.png)
 
 ## word2vec (Simple_word2vec_Approach.py)
 
