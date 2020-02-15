@@ -1,6 +1,6 @@
 # NLP Interview Analysis
 
-As part of my Bachelor Thesis, I have been experimenting with #NLP algorithms to come up with a way to assess the persona of entrepreneurs, without relying on mostly unscientific quantitative-based leadership tests. 
+As part of my Bachelor Thesis, I have been experimenting with natural language processing algorithms to come up with a way to assess the persona of entrepreneurs, without relying on mostly unscientific quantitative-based leadership tests. 
 
 Many startup founders from my network received a questionnaire consisting of 10 questions, focused on assessing their personality based on their reactions and behaviors in predefined events. 
 
